@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textsize_12sp">13.00sp</dimen>
+    <dimen name="textsize_13sp">14.00sp</dimen>
+    <dimen name="textsize_14sp">15.00sp</dimen>
+    <dimen name="textsize_15sp">16.00sp</dimen>
+    <dimen name="textsize_16sp">20.00sp</dimen>
+    <dimen name="textsize_17sp">20.00sp</dimen>
+    <dimen name="textsize_18sp">22.00sp</dimen>
+    <dimen name="textsize_19sp">24.00sp</dimen>
+    <dimen name="textsize_20sp">25.00sp</dimen>
+    <dimen name="textsize_21sp">26.00sp</dimen>
+    <dimen name="textsize_22sp">27.00sp</dimen>
+    <dimen name="textsize_23sp">28.00sp</dimen>
+    <dimen name="textsize_24sp">29.00sp</dimen>
+    <dimen name="textsize_25sp">30.00sp</dimen>
+    <dimen name="textsize_26sp">31.00sp</dimen>
+    <dimen name="textsize_27sp">32.00sp</dimen>
+    <dimen name="textsize_28sp">33.00sp</dimen>
+    <dimen name="textsize_29sp">34.00sp</dimen>
+
+    <dimen name="textsize_30sp">35.00sp</dimen>
+    <dimen name="textsize_31sp">36.00sp</dimen>
+    <dimen name="textsize_32sp">37.00sp</dimen>
+    <dimen name="textsize_33sp">38.00sp</dimen>
+    <dimen name="textsize_34sp">39.00sp</dimen>
+    <dimen name="textsize_35sp">40.00sp</dimen>
+    <dimen name="textsize_36sp">41.00sp</dimen>
+    <dimen name="textsize_37sp">42.00sp</dimen>
+    <dimen name="textsize_38sp">43.00sp</dimen>
+    <dimen name="textsize_39sp">44.00sp</dimen>
+    <dimen name="textsize_40sp">45.00sp</dimen>
+    <dimen name="textsize_41sp">46.00sp</dimen>
+    <dimen name="textsize_42sp">47.00sp</dimen>
+    <dimen name="textsize_43sp">48.00sp</dimen>
+    <dimen name="textsize_44sp">49.00sp</dimen>
+    <dimen name="textsize_45sp">50.00sp</dimen>
+    <dimen name="textsize_46sp">51.00sp</dimen>
+    <dimen name="textsize_47sp">52.00sp</dimen>
+    <dimen name="textsize_48sp">53.00sp</dimen>
+    <dimen name="textsize_49sp">54.00sp</dimen>
+    <dimen name="textsize_50sp">55.00sp</dimen>
+
+</resources>
